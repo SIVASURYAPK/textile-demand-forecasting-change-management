@@ -1,0 +1,9 @@
+Stakeholder_Group,Mendelow_Quadrant,Baseline_W0,Week_2,Week_4,Week_6,Week_8_Target,Week_12_Final,Intervention_Trigger
+Board of Directors,High Power / Low Interest,3,3,3,4,4,5,Score <= 2
+Plant Heads,High Power / High Interest,2,2,3,3,4,4,Drop >= 1
+Production Planners,High Power / High Interest,1,2,2,3,3,4,Stagnant <= 2 for 4wks
+Sales Team,Low Power / High Interest,2,2,3,3,3,4,Score <= 2
+Procurement Team,Low Power / High Interest,3,3,4,4,4,5,Score <= 2
+IT & Systems,High Power / Low Interest,3,3,4,4,4,4,Score <= 2
+Finance Team,High Power / Low Interest,2,2,3,3,3,4,Score <= 2
+Key Yarn Supplier,Low Power / High Interest,2,2,2,3,3,4,Score <= 2
